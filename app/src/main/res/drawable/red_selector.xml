@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape>
+            <solid android:color="@color/red" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <solid android:color="@android:color/transparent" />
+        </shape>
+    </item>
+    <!-- res/drawable/textview_focused.xml -->
+
+        <item android:state_focused="true">
+            <color android:color="@color/red" />
+        </item>
+        <item>
+            <!-- Ваш обычный цвет текста, когда не в фокусе -->
+            <color android:color="@color/black" />
+        </item>
+
+
+
+</selector>

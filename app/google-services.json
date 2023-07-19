@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "285561416703",
+    "project_id": "praktik-fc292",
+    "storage_bucket": "praktik-fc292.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285561416703:android:41b8b16bdb3572f47915ca",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285561416703-57j6vltrt1c1at9g7h6071lj6k2tknbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6kl5vD3f-SzcAMpNs15RjDzjSiBUU5Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285561416703-57j6vltrt1c1at9g7h6071lj6k2tknbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,31 @@
+<resources>
+
+        <string name="app_name">Praktika</string>
+        <string name="name">AviaSale</string>
+        <string name="prof">Ticket</string>
+        <string name="login">Login</string>
+        <string name="auto">Authorization</string>
+        <string name="book">Booking</string>
+        <string name="logo1">Avia</string>
+        <string name="logo2">Sales</string>
+        <string name="autorization">Ще немає акаунту?                                                    Зареєструйтеся</string>
+        <string name="pass">Password</string>
+        <string name="number">Mobile phone</string>
+        <string name="Name">Name</string>
+        <string name="Surname">Surname</string>
+        <string name="Arrival">Arrival</string>
+        <string name="Departure">Departure</string>
+        <string name="Select1">Вибрати</string>
+        <string name="Select2">Вибрати</string>
+        <string name="Count">Забронювати</string>
+        <string name="Filtr">Відфільтрувати</string>
+        <string name="Time1"></string>
+        <string name="Time2"></string>
+        <string name="Dep1"></string>
+        <string name="Dep2"></string>
+        <string name="Arr1"></string>
+        <string name="Arr2"></string>
+        <string name="Count1"></string>
+        <string name="Count2"></string>
+        <string name="reg">register</string>
+</resources>
